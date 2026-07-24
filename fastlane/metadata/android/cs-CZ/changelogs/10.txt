@@ -1,0 +1,5 @@
+- Překlad do češtiny
+- Překlad do turečtiny
+- Překlad do řečtiny
+- Větší kompas v režimu na šířku
+- Jednobarevná ikona

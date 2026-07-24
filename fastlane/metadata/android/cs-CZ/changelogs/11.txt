@@ -1,0 +1,4 @@
+- Funkce skutečný sever
+- Nastavení aplikace
+- Překlad do francouzštiny
+- Podpora nastavení jazyka pro jednotlivé aplikace

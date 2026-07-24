@@ -1,0 +1,3 @@
+- Překlad do ruštiny
+- Větší zobrazení kompasu
+- Opraven chybný azimut při orientaci na šířku

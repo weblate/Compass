@@ -1,0 +1,4 @@
+- Při zaokrouhlování nahoru se vždy zobrazí 0° místo 360°
+- Překlad do norštiny
+- Dokončení překladu do finštiny
+- Dokončení překladu do ruštiny

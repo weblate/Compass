@@ -1,0 +1,6 @@
+- Material Design 3
+- Překlad do bosenštiny
+- Překlad do chorvatštiny
+- Překlad do srbštiny
+- Nové ikony pro preferenci nočního režimu
+- Trvalé uložení preferencí

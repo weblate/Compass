@@ -1,0 +1,3 @@
+- Opraveno selhání v případě otevření odkazu na zařízení, které nemá webový prohlížeč nebo aplikaci pro e-maily
+- Opraveno uzamykání orientace obrazovky
+- Opraveno selhání na zařízeních s Androidem ve verzi od 7.0 do 9.0

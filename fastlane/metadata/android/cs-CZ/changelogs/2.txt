@@ -1,0 +1,2 @@
+- Čitelné světové strany
+- Dialog pro přesnost senzoru

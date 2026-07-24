@@ -1,0 +1,1 @@
+- Oprava selhání aplikace v případě, že systém neposkytuje síťového poskytovatele polohy

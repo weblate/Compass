@@ -1,0 +1,1 @@
+- Opraveny nesprávné stupně v případě otočení obrazovky o 180°

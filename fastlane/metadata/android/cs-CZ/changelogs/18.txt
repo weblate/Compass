@@ -1,0 +1,6 @@
+- Přidán nápověda k odchylce
+- Přidán vysvětlující obrázek ke kalibraci senzorů
+- Přidán překlad do maďarštiny
+- Vylepšeno zobrazení stavu senzoru
+- Odstraněno zvláštní označení severu na směrové růžici
+- Minimální verze SDK povýšena na 23

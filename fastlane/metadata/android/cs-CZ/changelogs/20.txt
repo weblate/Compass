@@ -1,0 +1,5 @@
+- Přidána možnost zobrazení licencí třetích stran
+- Přidán překlad do tamilštiny
+- Přidán překlad do brazilské portugalštiny
+- Přidán překlad do perštiny
+- Přidán překlad do polštiny

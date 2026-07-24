@@ -1,0 +1,3 @@
+- Aktualizace pro Android 16
+- Přidán překlad do hebrejštiny
+- Opravena chyba při otevírání licencí softwaru s otevřeným zdrojovým kódem

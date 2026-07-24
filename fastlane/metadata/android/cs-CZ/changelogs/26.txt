@@ -1,0 +1,3 @@
+- Opraveno odsazení rozložení aplikace v režimu vykreslování od okraje k okraji
+- Přidán překlad do baskičtiny
+- Vylepšen překlad do nizozemštiny

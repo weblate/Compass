@@ -1,0 +1,5 @@
+- Otáčející se směrová růžice
+- Textový popis stupňů
+- Textový popis světových stran
+- Denní a noční režim
+- Překlad do angličtiny a němčiny

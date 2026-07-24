@@ -1,0 +1,2 @@
+- Kompas se již nebude třást
+- Přidána nápověda pro kalibraci senzoru

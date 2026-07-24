@@ -1,0 +1,4 @@
+- Možnost zamknout nebo následovat otočení obrazovky
+- Vylepšeno zpřizpůsobení velikosti kompasu
+- Překlad do nizozemštiny
+- Překlad do finštiny

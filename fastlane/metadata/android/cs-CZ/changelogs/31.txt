@@ -1,0 +1,3 @@
+- Nově je chybovou barvou označena i střední přesnost senzoru
+- Přidán překlad do portugalštiny
+- Vylepšen překlad do italštiny

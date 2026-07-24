@@ -1,0 +1,4 @@
+- Přidán překlad do čínštiny (klasické)
+- Přidán překlad do ngalštiny
+- Přidán překlad do paštštiny
+- Vylepšen překlad do hebrejštiny

@@ -1,0 +1,4 @@
+- Přísnější hardwarové požadavky
+- Přidán překlad do indonézštiny
+- Vylepšen překlad do finštiny
+- Vylepšen překlad do vietnamštiny

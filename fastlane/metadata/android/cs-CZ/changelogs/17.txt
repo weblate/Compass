@@ -1,0 +1,6 @@
+- Žádá se pouze o jednu polohu, aby se šetřila baterie
+- Samostatný chybový kód v případě vypnuté polohy
+- Aktualizace pro Android 14
+- Vylepšené dialogy
+- Vylepšené pojmenování motivů
+- Oprava překlepů

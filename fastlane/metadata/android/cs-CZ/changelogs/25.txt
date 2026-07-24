@@ -1,0 +1,2 @@
+- Přidán překlad do uzbečtiny
+- Vylepšena podpora pro různě velké obrazovky

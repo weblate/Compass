@@ -1,0 +1,6 @@
+- Přidán překlad do estonštiny
+- Vylepšen překlad do bosenštiny
+- Vylepšen překlad do chorvatštiny
+- Vylepšen překlad do makedonštiny
+- Vylepšen překlad do ruštiny
+- Vylepšen překlad do srbštiny

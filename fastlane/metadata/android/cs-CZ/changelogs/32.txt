@@ -1,0 +1,2 @@
+- Kompletní předělání vzhledu aplikace pomocí Jetpack Compose
+- Přidán překlad do malajštiny a nepálštiny

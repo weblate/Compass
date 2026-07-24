@@ -1,0 +1,1 @@
+- Opraveno selhání v případě, kdy byl vysvětlující dialog otevřen více než jednou
