@@ -1,0 +1,3 @@
+- Çekçe çeviri tamamlandı
+- İtalyanca çeviri eklendi
+- Vietnamca çeviri eklendi
