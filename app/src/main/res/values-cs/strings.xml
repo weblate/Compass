@@ -3,7 +3,7 @@
     <string name="compass">Kompas</string>
     <string name="sensor_status">Stav senzoru</string>
     <string name="lock_screen_rotation">Uzamknout otáčení obrazovky</string>
-    <string name="compass_rose_image_description">Směrová růžice ukazuje na magnetický sever</string>
+    <string name="compass_rose_image_description">Směrová růžice</string>
     <string name="cardinal_direction_north">Sever</string>
     <string name="cardinal_direction_northeast">Severovýchod</string>
     <string name="cardinal_direction_east">Východ</string>
@@ -52,4 +52,5 @@
     <string name="error">Chyba</string>
     <string name="ok">OK</string>
     <string name="no_thanks">Ne, díky</string>
+    <string name="compass_rose_state_description">%1$s, %2$s</string>
 </resources>
